@@ -1,0 +1,9 @@
+#All files ignored exept .vhd and .xise
+
+#ignoring everything
+*
+
+#don't ignore
+!.gitignore
+!*.vhd
+!*.xise
